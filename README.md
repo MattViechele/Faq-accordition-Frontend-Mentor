@@ -27,9 +27,9 @@ The mobile version:
 
 ### Links
 
-- Solution URL: [https://github.com/MattViechele/Faq-accordition-Frontend-Mentor]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: https://github.com/MattViechele/Faq-accordition-Frontend-Mentor
+- Live Site URL: https://faq-accordition-frontend-mentor.vercel.app/
+- 
 ### Built with
 
 - Semantic HTML5 markup
@@ -37,7 +37,7 @@ The mobile version:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [TypeScript](https://www.typescriptlang.org/) - TypeScript
+- [TypeScript](https://www.typescriptlang.org/)
 
 ### What I learned
 
